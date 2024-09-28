@@ -1,18 +1,2 @@
-# Ignore Visual Studio temporary files, build results, and
-# build logs.
-
-# User-specific files
-*.rsuser
-*.suo
-*.user
-*.userosscache
-*.sln.docstates
-
-# User-specific files (Mono auto generated)
-mono_crash.*
-
-# Build results
-[Dd]ebug/
-[Rr]elease/
-x64/
-x86/
+# Ignore Visual Studio temporary files
+.vs/
