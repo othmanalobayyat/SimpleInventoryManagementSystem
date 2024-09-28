@@ -1,0 +1,15 @@
+C:\Users\ome20\Desktop\Internship\2.C#\SimpleInventoryManagementSystem\SimpleInventoryManagementSystem\bin\Debug\net8.0\SimpleInventoryManagementSystem.exe
+C:\Users\ome20\Desktop\Internship\2.C#\SimpleInventoryManagementSystem\SimpleInventoryManagementSystem\bin\Debug\net8.0\SimpleInventoryManagementSystem.deps.json
+C:\Users\ome20\Desktop\Internship\2.C#\SimpleInventoryManagementSystem\SimpleInventoryManagementSystem\bin\Debug\net8.0\SimpleInventoryManagementSystem.runtimeconfig.json
+C:\Users\ome20\Desktop\Internship\2.C#\SimpleInventoryManagementSystem\SimpleInventoryManagementSystem\bin\Debug\net8.0\SimpleInventoryManagementSystem.dll
+C:\Users\ome20\Desktop\Internship\2.C#\SimpleInventoryManagementSystem\SimpleInventoryManagementSystem\bin\Debug\net8.0\SimpleInventoryManagementSystem.pdb
+C:\Users\ome20\Desktop\Internship\2.C#\SimpleInventoryManagementSystem\SimpleInventoryManagementSystem\obj\Debug\net8.0\SimpleInventoryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ome20\Desktop\Internship\2.C#\SimpleInventoryManagementSystem\SimpleInventoryManagementSystem\obj\Debug\net8.0\SimpleInventoryManagementSystem.AssemblyInfoInputs.cache
+C:\Users\ome20\Desktop\Internship\2.C#\SimpleInventoryManagementSystem\SimpleInventoryManagementSystem\obj\Debug\net8.0\SimpleInventoryManagementSystem.AssemblyInfo.cs
+C:\Users\ome20\Desktop\Internship\2.C#\SimpleInventoryManagementSystem\SimpleInventoryManagementSystem\obj\Debug\net8.0\SimpleInventoryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\ome20\Desktop\Internship\2.C#\SimpleInventoryManagementSystem\SimpleInventoryManagementSystem\obj\Debug\net8.0\SimpleInventoryManagementSystem.sourcelink.json
+C:\Users\ome20\Desktop\Internship\2.C#\SimpleInventoryManagementSystem\SimpleInventoryManagementSystem\obj\Debug\net8.0\SimpleInventoryManagementSystem.dll
+C:\Users\ome20\Desktop\Internship\2.C#\SimpleInventoryManagementSystem\SimpleInventoryManagementSystem\obj\Debug\net8.0\refint\SimpleInventoryManagementSystem.dll
+C:\Users\ome20\Desktop\Internship\2.C#\SimpleInventoryManagementSystem\SimpleInventoryManagementSystem\obj\Debug\net8.0\SimpleInventoryManagementSystem.pdb
+C:\Users\ome20\Desktop\Internship\2.C#\SimpleInventoryManagementSystem\SimpleInventoryManagementSystem\obj\Debug\net8.0\SimpleInventoryManagementSystem.genruntimeconfig.cache
+C:\Users\ome20\Desktop\Internship\2.C#\SimpleInventoryManagementSystem\SimpleInventoryManagementSystem\obj\Debug\net8.0\ref\SimpleInventoryManagementSystem.dll
